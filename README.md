@@ -1,2 +1,1 @@
-# CelebsScrapped
-Scrapping of common online imbd data to provide celebrity database
+# Web-scrapping and storage database creation
